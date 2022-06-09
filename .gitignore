@@ -1,0 +1,5 @@
+*pdf
+.env
+.idea
+.ipynb_checkpoints
+data/
