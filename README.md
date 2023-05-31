@@ -1,1 +1,2 @@
 # twitter_sentiment_analysis_ukraine
+By conducting sentiment analysis on text data related to the Ukraine war using Python, this project aims to provide a quantitative understanding of public sentiment towards the conflict. The analysis can assist policymakers, researchers, and stakeholders in gaining insights into public opinion and sentiment dynamics, which can inform decision-making, strategic communication, and policy formulation.
